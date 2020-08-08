@@ -13,5 +13,6 @@ imagens originais:
 ![original 2](https://cdn.discordapp.com/attachments/641105429358837780/741493436309569556/wink.png)
 
 exemplo de imagens geradas:
+
 ![fake 1](https://cdn.discordapp.com/attachments/641105429358837780/741492726733996032/emoji_e451_t9.png)
 ![fake 2](https://cdn.discordapp.com/attachments/641105429358837780/741493290968416266/emoji_e353_t9.png)
