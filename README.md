@@ -16,3 +16,5 @@ exemplo de imagens geradas:
 
 ![fake 1](https://cdn.discordapp.com/attachments/641105429358837780/741492726733996032/emoji_e451_t9.png)
 ![fake 2](https://cdn.discordapp.com/attachments/641105429358837780/741493290968416266/emoji_e353_t9.png)
+
+fonte: https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html
